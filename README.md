@@ -57,4 +57,4 @@ I design and build software end-to-end — from interface design through backend
 
 ---
 
-<sub>Currently studying at the University of Nebraska at Omaha · Open to collaboration</sub>
+<sub>Currently pursuiing my Masters in Human Centered Computing at the University of Nebraska at Omaha · Open to collaboration</sub>
