@@ -38,13 +38,8 @@ I design and build software end-to-end — from interface design through backend
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top"
 
-**[Portfolio IQ](https://github.com/jayheld/portfolio-iq)** · Full Stack
-<br><sub>Intelligent portfolio analysis tool.</sub>
-<br><sub>TypeScript · React</sub>
-
-</td>
 <td width="50%" valign="top">
 
 **[Mission Control](https://github.com/jayheld/mission-control)** · Frontend
