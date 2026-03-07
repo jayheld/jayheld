@@ -10,7 +10,7 @@ I design and build software end-to-end — from interface design through backend
 
 **Design** — Figma, UI/UX, Design Systems, Prototyping
 
-**Frontend** — React, TypeScript, Tailwind CSS, Vite
+**Frontend** — React, TypeScript, Tailwind CSS, Vite, Next.js
 
 **Backend** — Kotlin, Spring Boot, PostgreSQL, Docker
 
