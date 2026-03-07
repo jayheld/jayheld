@@ -24,8 +24,8 @@ I design and build software end-to-end — from interface design through backend
 <tr>
 <td width="50%" valign="top">
 
-**HRA 2.0** · Full Stack
-<br><sub>School security assessment platform with risk-based scoring, multi-level survey engine, and data-driven reporting.</sub>
+**Holistic Risk Assessment (HRA) 2.0** · Full Stack
+<br><sub>K-12 school security assessment platform for the Department of Homeland Security. Risk-based scoring, multi-level survey engine, and data-driven reporting.</sub>
 <br><sub>React 19 · Kotlin · Spring Boot · PostgreSQL · Docker</sub>
 
 </td>
@@ -35,7 +35,9 @@ I design and build software end-to-end — from interface design through backend
 <br><sub>Personal portfolio site — designed and developed from scratch.</sub>
 <br><sub>TypeScript · React</sub>
 
-
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Mission Control](https://github.com/jayheld/mission-control)** · Frontend
@@ -43,19 +45,10 @@ I design and build software end-to-end — from interface design through backend
 <br><sub>TypeScript · React</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Water Distribution Testing](https://github.com/jayheld/Water-Distribution-Testing)** · Full Stack
 <br><sub>Field testing application for water distribution systems. UNO CSCI 4830/8836.</sub>
-<br><sub>TypeScript</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[LLM Eval Hub](https://github.com/jayheld/llm-eval-hub)** · Tools
-<br><sub>Evaluation framework for comparing large language model outputs.</sub>
 <br><sub>TypeScript</sub>
 
 </td>
