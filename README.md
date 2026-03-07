@@ -35,10 +35,6 @@ I design and build software end-to-end — from interface design through backend
 <br><sub>Personal portfolio site — designed and developed from scratch.</sub>
 <br><sub>TypeScript · React</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top"
 
 <td width="50%" valign="top">
 
