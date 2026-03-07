@@ -26,7 +26,7 @@ I design and build software end-to-end — from interface design through backend
 <tr>
 <td width="50%" valign="top">
 
-**Holistic Risk Assessment (HRA) ** · Full Stack
+Holistic Risk Assessment (HRA) · Full Stack
 <br><sub>K-12 school security assessment platform for the Department of Homeland Security. Risk-based scoring, multi-level survey engine, and data-driven reporting.</sub>
 <br><sub>React 19 · Kotlin · Spring Boot · PostgreSQL · Docker</sub>
 
