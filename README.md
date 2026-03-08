@@ -12,7 +12,7 @@ I design and build software end-to-end — from interface design through backend
 
 **Design** — Figma, UI/UX, Design Systems, Prototyping, Claude Code
 
-**Frontend** — React, TypeScript, Tailwind CSS, Vite, Next.js
+**Frontend** — React, TypeScript, Tailwind CSS, Next.js, Javascript
 
 **Backend** — Kotlin, Spring Boot, PostgreSQL, Docker
 
