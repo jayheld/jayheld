@@ -2,7 +2,7 @@
   <img src="header.png" alt="jayheld" width="800" />
 </p>
 
-<h3 align="center">Designer & Full Stack Engineer · Omaha, NE</h3>
+<h3 align="center">Designer & Agentic Engineer · Omaha, NE</h3>
 
 I design and build software end-to-end — from interface design through backend architecture. I care about craft at every layer: clean visual hierarchy, thoughtful interactions, and reliable systems underneath.
 
